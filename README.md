@@ -1,5 +1,8 @@
 <h1>TUTORIAL - KAFKA</h1>
 
+<h3>Download Kafka:</h3>
+<li>https://archive.apache.org/dist/kafka/2.3.0/kafka_2.12-2.3.0.tgz</li>
+
 <h3>Iniciar zookeper</h3>
 c:\kafka\bin\windows\zookeeper-server-start.bat c:\kafka\config\zookeeper.properties
 
